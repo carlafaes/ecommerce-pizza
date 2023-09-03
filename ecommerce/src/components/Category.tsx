@@ -3,7 +3,7 @@ const dataProducts = [
         id:1,
         name: "Pizza Primavera",
         count: "10 products",
-        img: "/primavera.jepg"
+        img: "/primavera.jpeg"
     },
     {
         id:2,
@@ -15,7 +15,7 @@ const dataProducts = [
         id:3,
         name: "Pizza Moderna",
         count: "10 products",
-        img: "/moderna.jepg"
+        img: "/moderna.jpeg"
     },
     {
         id:4,
@@ -27,31 +27,31 @@ const dataProducts = [
         id:5,
         name: "Pizza Atun",
         count: "10 products",
-        img: "/atun.jepg"
+        img: "/atun.jpeg"
     },
     {
         id:6,
         name: "Pizza Cuatro Quesos",
         count: "10 products",
-        img: "/cuatroquesos.jepg"
+        img: "/cuatroquesos.jpeg"
     },
     {
         id:7,
         name: "Pizza Fugazzeta",
         count: "10 products",
-        img: "/fugazzeta.jepg"
+        img: "/fugazzeta.jpeg"
     },
     {
         id:8,
         name: "Pizza Napolitana",
         count: "10 products",
-        img: "/napolitana.jepg"
+        img: "/napolitana.jpeg"
     },
     {
         id:9,
         name: "Pizza Peperoni",
         count: "10 products",
-        img: "/peperoni.jepg"
+        img: "/peperoni.jpeg"
     },
 ];
 
